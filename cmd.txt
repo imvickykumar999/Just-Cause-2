@@ -1,0 +1,71 @@
+Microsoft Windows [Version 10.0.19042.928]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Vicky\Desktop\Projects\upload on github\upload\my pip>python
+Python 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 16:30:00) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from vixuploader import github as g
+
+Welcome to my website ;)  https://vixportfoliowithflask.herokuapp.com/skills
+
+ONLINE MORSE CODE ENCRYPTER AND DECRYPTER :  https://imvickykumar999.github.io/git-bash/
+
+Use help(module name) function to know available functions in it.
+>>> hellp(g)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'hellp' is not defined
+>>> help(g)
+Help on module vixuploader.github in vixuploader:
+
+NAME
+    vixuploader.github
+
+FUNCTIONS
+    upload()
+
+FILE
+    c:\users\vicky\appdata\local\packages\pythonsoftwarefoundation.python.3.7_qbz5n2kfra8p0\localcache\local-packages\python37\site-packages\vixuploader\github.py
+
+
+>>> g.upload()
+
+1). git init
+Initialized empty Git repository in C:/Users/Vicky/Desktop/Projects/upload on github/upload/my pip/.git/
+
+2). git add .
+warning: LF will be replaced by CRLF in Just Cause 2 Game/READ ME FIRST !!!.txt.
+The file will have its original line endings in your working directory
+
+Enter each file name seperated by space (or, Press ENTER to Upload All...) :
+
+3). git commit -m "Adding files"
+[master (root-commit) d8f2c4a] Adding files
+ 3 files changed, 39 insertions(+)
+ create mode 100644 Just Cause 2 Game/Just Cause 2 full game installer.exe
+ create mode 100644 Just Cause 2 Game/READ ME FIRST !!!.txt
+ create mode 100644 Just Cause 2 Game/justcause2_logo.bmp
+
+4). git remote add origin https://github.com/...
+Enter the github Username : imvickykumar999
+Enter Existing Repository : Just-Cause-Game-exe
+
+5). git pull origin master
+fatal: couldn't find remote ref master
+
+6). git push origin master
+Logon failed, use ctrl+c to cancel basic credential prompt.
+Username for 'https://github.com': imvickykumar999
+Password for 'https://imvickykumar999@github.com':
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (4/4), done.
+error: RPC failed; curl 92 HTTP/2 stream 0 was not closed cleanly: Unknown error code (err 8)
+Wfatal: the remote end hung up unexpectedly
+Writing objects: 100% (6/6), 3.19 GiB | 1.33 MiB/s, done.
+Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+Sorry, Couldn't be uploaded... Try again !!!
+>>>
