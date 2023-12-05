@@ -1,6 +1,8 @@
 Note:
 YOU CANNOT PLAY THIS GAME WITH WINDOWS XP !!! IS REQUIRED AT LEAST WINDOWS VISTA SERVICE PACK 2  !!!!
-	
+
+![image](https://github.com/imvickykumar999/Just-Cause-2/assets/50515418/bdc19617-19da-40c4-a428-1ff5fe7ea2d2)
+
 About the Game:
 
 Dive into an adrenaline-fuelled free-roaming adventure. As agent Rico Rodriguez, your orders are to find and kill your friend and mentor who has disappeared on the island paradise of Panau. There, you must cause maximum chaos by land, sea and air to shift the balance of power. With the unique grapple and parachute combo, BASE jump, hijack and create your own high-speed stunts. With 400 square miles of rugged terrain and hundreds of weapons and vehicles, Just Cause 2 defies gravity and belief...... 
